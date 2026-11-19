@@ -1,7 +1,7 @@
 {
     "name": "腕上地图同步器",
     "icon": "icon.png",
-    "version": "202611154",
+    "version": "202611155",
     "description": "本地地图包：把电脑侧生成的 .obm 离线包导入本机，按 v5 分片协议经 local:// 供手环地图快应用取包。",
     "author": "openblack",
     "website": "https://openblack.top",
